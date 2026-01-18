@@ -1,0 +1,13 @@
+{
+  "name": "sancho-bot",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
